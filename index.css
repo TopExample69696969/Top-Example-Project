@@ -1,0 +1,29 @@
+h1{
+  background-color: rgb(96,96,96);
+  color: silver;
+  }
+  
+h4{
+  font-size: 15px;
+}
+
+p{
+  background-color: rgb(192,192,192);
+}
+
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  border-radius: 50%;
+}
+
+
+body {background-color: rgb(192,192,192)}
+
+
+.column {
+    float: left;
+    width: 50%;
